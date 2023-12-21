@@ -1,0 +1,5 @@
+* 
+!requirements.txt
+!weather/api_weather_now
+!weather/bot_weather_forecast
+!dist/

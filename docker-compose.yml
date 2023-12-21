@@ -1,0 +1,13 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+     - '8020:8000'
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./weather:/weather
+    command: make run-dev

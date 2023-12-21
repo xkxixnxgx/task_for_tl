@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "task-for-tl"
+version = "0.1.0"
+description = "A test task. 1. API that returns temperature, pressure and wind speed when getting the name of the city. 2. The bot sending the weather forecast for today. 3. Tests."
+authors = ["Yury Borodich <xkxixnxgx@yandex.ru>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "task_for_tl"}]
+
+[tool.poetry.dependencies]
+python = "3.11.2"
+djangorestframework = "3.14.0"
+httpx = "0.25.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
