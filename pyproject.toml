@@ -11,6 +11,7 @@ packages = [{include = "task_for_tl"}]
 python = "3.11.2"
 djangorestframework = "3.14.0"
 httpx = "0.25.2"
+python-telegram-bot = "20.7"
 
 
 [build-system]

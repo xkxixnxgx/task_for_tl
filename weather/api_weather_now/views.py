@@ -1,9 +1,9 @@
+import httpx
 from rest_framework import status
-from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from weather import settings
-import httpx
 from rest_framework.views import APIView
+
 
 class WeatherView(APIView):
     def get(self, request):
@@ -13,9 +13,9 @@ class WeatherView(APIView):
         latitude = '55.75'
         longitude = '37.62'
         response_language = settings.RESPONSE_LANGUAGE
-        url = f'{settings.URL_YANDEX_WEATHER}?lat={latitude}&lon={longitude}&lang={response_language}'
+        url = f'{settings.URL_YANDEX_WEATHER_INFORM}?lat={latitude}&lon={longitude}&lang={response_language}'
         headers = {
-            'X-Yandex-API-Key': settings.API_KEY_YANDEX_WEATHER,
+            'X-Yandex-API-Key': settings.API_KEY_YANDEX_WEATHER_INFORM,
             'Accept': 'application/json',
             'Content-Type': 'application/json',
         }

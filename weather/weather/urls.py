@@ -22,5 +22,5 @@ urlpatterns = [
     path('', include('rest_framework.urls')),
     path('admin/', admin.site.urls),
     path('api/weather/', include('api_weather_now.urls')),
-    # path('bot/weather_forecast', weather_forecast, name='weather_forecast'),
+    path('webhook/', include('bot_weather_forecast.urls')),
 ]
