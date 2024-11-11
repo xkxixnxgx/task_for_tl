@@ -1,0 +1,635 @@
+[
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Россия, Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "RU",
+                        "formatted": "Россия, Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Россия"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Приволжский федеральный округ"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Самарская область"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "городской округ Самара"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Россия, Самара",
+                            "CountryNameCode": "RU",
+                            "CountryName": "Россия",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Самарская область",
+                                "SubAdministrativeArea": {
+                                    "SubAdministrativeAreaName": "городской округ Самара",
+                                    "Locality": {
+                                        "LocalityName": "Самара"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "Самара",
+            "description": "Россия",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "49.732198 53.09185",
+                    "upperCorner": "50.390439 53.551185"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzEwNTMxNhIa0KDQvtGB0YHQuNGPLCDQodCw0LzQsNGA0LAiCg2bZkhCFZTIVEI,",
+            "Point": {
+                "pos": "50.100202 53.195878"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Россия, Рязанская область, Михайловский район, Жмуровское сельское поселение, деревня Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "RU",
+                        "formatted": "Россия, Рязанская область, Михайловский район, Жмуровское сельское поселение, деревня Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Россия"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Центральный федеральный округ"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Рязанская область"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "Михайловский район"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "Жмуровское сельское поселение"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "деревня Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Россия, Рязанская область, Михайловский район, Жмуровское сельское поселение, деревня Самара",
+                            "CountryNameCode": "RU",
+                            "CountryName": "Россия",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Рязанская область",
+                                "SubAdministrativeArea": {
+                                    "SubAdministrativeAreaName": "Михайловский район",
+                                    "Locality": {
+                                        "LocalityName": "деревня Самара"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "деревня Самара",
+            "description": "Жмуровское сельское поселение, Михайловский район, Рязанская область, Россия",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "38.827738 54.008199",
+                    "upperCorner": "38.839605 54.016818"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzAyNTU3MBKrAdCg0L7RgdGB0LjRjywg0KDRj9C30LDQvdGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCDQnNC40YXQsNC50LvQvtCy0YHQutC40Lkg0YDQsNC50L7QvSwg0JbQvNGD0YDQvtCy0YHQutC-0LUg0YHQtdC70YzRgdC60L7QtSDQv9C-0YHQtdC70LXQvdC40LUsINC00LXRgNC10LLQvdGPINCh0LDQvNCw0YDQsCIKDWJUG0IVXw9YQg,,",
+            "Point": {
+                "pos": "38.8324 54.015009"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Россия, Иркутская область, Зиминский район, Услонское муниципальное образование, село Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "RU",
+                        "formatted": "Россия, Иркутская область, Зиминский район, Услонское муниципальное образование, село Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Россия"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Сибирский федеральный округ"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Иркутская область"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "Зиминский район"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "Услонское муниципальное образование"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "село Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Россия, Иркутская область, Зиминский район, Услонское муниципальное образование, село Самара",
+                            "CountryNameCode": "RU",
+                            "CountryName": "Россия",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Иркутская область",
+                                "SubAdministrativeArea": {
+                                    "SubAdministrativeAreaName": "Зиминский район",
+                                    "Locality": {
+                                        "LocalityName": "село Самара"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "село Самара",
+            "description": "Услонское муниципальное образование, Зиминский район, Иркутская область, Россия",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "101.995265 53.844351",
+                    "upperCorner": "102.03418 53.857194"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzEwOTI5OBKrAdCg0L7RgdGB0LjRjywg0JjRgNC60YPRgtGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCDQl9C40LzQuNC90YHQutC40Lkg0YDQsNC50L7QvSwg0KPRgdC70L7QvdGB0LrQvtC1INC80YPQvdC40YbQuNC_0LDQu9GM0L3QvtC1INC-0LHRgNCw0LfQvtCy0LDQvdC40LUsINGB0LXQu9C-INCh0LDQvNCw0YDQsCIKDTwGzEIVtWZXQg,,",
+            "Point": {
+                "pos": "102.012181 53.8503"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Россия, Еврейская автономная область, Октябрьский район, село Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "RU",
+                        "formatted": "Россия, Еврейская автономная область, Октябрьский район, село Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Россия"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Дальневосточный федеральный округ"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Еврейская автономная область"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "Октябрьский район"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "село Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Россия, Еврейская автономная область, Октябрьский район, село Самара",
+                            "CountryNameCode": "RU",
+                            "CountryName": "Россия",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Еврейская автономная область",
+                                "SubAdministrativeArea": {
+                                    "SubAdministrativeAreaName": "Октябрьский район",
+                                    "Locality": {
+                                        "LocalityName": "село Самара"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "село Самара",
+            "description": "Октябрьский район, Еврейская автономная область, Россия",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "131.219258 47.820806",
+                    "upperCorner": "131.24027 47.836255"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzA2NDQ1NBJ-0KDQvtGB0YHQuNGPLCDQldCy0YDQtdC50YHQutCw0Y8g0LDQstGC0L7QvdC-0LzQvdCw0Y8g0L7QsdC70LDRgdGC0YwsINCe0LrRgtGP0LHRgNGM0YHQutC40Lkg0YDQsNC50L7QvSwg0YHQtdC70L4g0KHQsNC80LDRgNCwIgoNQToDQxWoTz9C",
+            "Point": {
+                "pos": "131.227559 47.827787"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Мали, Каес, Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "ML",
+                        "formatted": "Мали, Каес, Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Мали"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Каес"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Мали, Каес, Самара",
+                            "CountryNameCode": "ML",
+                            "CountryName": "Мали",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Каес",
+                                "Locality": {
+                                    "LocalityName": "Самара"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "Самара",
+            "description": "Каес, Мали",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "-11.878252 13.916824",
+                    "upperCorner": "-11.874057 13.920465"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxOTgzMDQ2MTYwEhNNYWxpLCBLYXllcywgU2FtYXJhIgoNcgU-wRXpsl5B",
+            "Point": {
+                "pos": "-11.87633 13.918675"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Коста-Рика, Гуанакасте, Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "CR",
+                        "formatted": "Коста-Рика, Гуанакасте, Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Коста-Рика"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Гуанакасте"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Коста-Рика, Гуанакасте, Самара",
+                            "CountryNameCode": "CR",
+                            "CountryName": "Коста-Рика",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Гуанакасте",
+                                "Locality": {
+                                    "LocalityName": "Самара"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "Самара",
+            "description": "Гуанакасте, Коста-Рика",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "-85.643987 9.81965",
+                    "upperCorner": "-85.512186 9.950344"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=CgoyMjQwMDYwNzMzEh9Db3N0YSBSaWNhLCBHdWFuYWNhc3RlLCBTw6FtYXJhIgoN-yerwhX2KB5B",
+            "Point": {
+                "pos": "-85.578086 9.885004"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Россия, Ленинградская область, Тихвинский район, Шугозерское сельское поселение, деревня Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "RU",
+                        "formatted": "Россия, Ленинградская область, Тихвинский район, Шугозерское сельское поселение, деревня Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Россия"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Северо-Западный федеральный округ"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Ленинградская область"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "Тихвинский район"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "Шугозерское сельское поселение"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "деревня Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Россия, Ленинградская область, Тихвинский район, Шугозерское сельское поселение, деревня Самара",
+                            "CountryNameCode": "RU",
+                            "CountryName": "Россия",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Ленинградская область",
+                                "SubAdministrativeArea": {
+                                    "SubAdministrativeAreaName": "Тихвинский район",
+                                    "Locality": {
+                                        "LocalityName": "деревня Самара"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "деревня Самара",
+            "description": "Шугозерское сельское поселение, Тихвинский район, Ленинградская область, Россия",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "34.374501 59.969101",
+                    "upperCorner": "34.379487 59.972442"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzE1MTQwNBKxAdCg0L7RgdGB0LjRjywg0JvQtdC90LjQvdCz0YDQsNC00YHQutCw0Y8g0L7QsdC70LDRgdGC0YwsINCi0LjRhdCy0LjQvdGB0LrQuNC5INGA0LDQudC-0L0sINCo0YPQs9C-0LfQtdGA0YHQutC-0LUg0YHQtdC70YzRgdC60L7QtSDQv9C-0YHQtdC70LXQvdC40LUsINC00LXRgNC10LLQvdGPINCh0LDQvNCw0YDQsCIKDWyCCUIVIeJvQg,,",
+            "Point": {
+                "pos": "34.377367 59.97083"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Россия, городской округ Брянск, посёлок городского типа Радица-Крыловка",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "RU",
+                        "formatted": "Россия, городской округ Брянск, посёлок городского типа Радица-Крыловка",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Россия"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Центральный федеральный округ"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Брянская область"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "городской округ Брянск"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "посёлок городского типа Радица-Крыловка"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Россия, городской округ Брянск, посёлок городского типа Радица-Крыловка",
+                            "CountryNameCode": "RU",
+                            "CountryName": "Россия",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Брянская область",
+                                "SubAdministrativeArea": {
+                                    "SubAdministrativeAreaName": "городской округ Брянск",
+                                    "Locality": {
+                                        "LocalityName": "посёлок городского типа Радица-Крыловка"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "посёлок городского типа Радица-Крыловка",
+            "description": "городской округ Брянск, Россия",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "34.352394 53.28849",
+                    "upperCorner": "34.388821 53.323389"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzE3ODM4NxKEAdCg0L7RgdGB0LjRjywg0LPQvtGA0L7QtNGB0LrQvtC5INC-0LrRgNGD0LMg0JHRgNGP0L3RgdC6LCDQv9C-0YHRkdC70L7QuiDQs9C-0YDQvtC00YHQutC-0LPQviDRgtC40L_QsCDQoNCw0LTQuNGG0LAt0JrRgNGL0LvQvtCy0LrQsCIKDYd6CUIVcDlVQg,,",
+            "Point": {
+                "pos": "34.36966 53.306094"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Алжир, вилайет Мсила, Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "DZ",
+                        "formatted": "Алжир, вилайет Мсила, Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Алжир"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "вилайет Мсила"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Алжир, вилайет Мсила, Самара",
+                            "CountryNameCode": "DZ",
+                            "CountryName": "Алжир",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "вилайет Мсила",
+                                "Locality": {
+                                    "LocalityName": "Самара"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "Самара",
+            "description": "вилайет Мсила, Алжир",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "4.118596 34.972965",
+                    "upperCorner": "4.125908 34.978858"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=Cgo0Mzk3NTE0NzgwEizYp9mE2KzYstin2KbYsSwg2KfZhNmF2LPZitmE2KksINin2LPZhdin2LHYqSIKDZjjg0AVoecLQg,,",
+            "Point": {
+                "pos": "4.121533 34.976197"
+            }
+        }
+    },
+    {
+        "GeoObject": {
+            "metaDataProperty": {
+                "GeocoderMetaData": {
+                    "precision": "other",
+                    "text": "Россия, Самарская область, Красноярский район, сельское поселение Светлое Поле, СДТ Самара",
+                    "kind": "locality",
+                    "Address": {
+                        "country_code": "RU",
+                        "formatted": "Россия, Самарская область, Красноярский район, сельское поселение Светлое Поле, СДТ Самара",
+                        "Components": [
+                            {
+                                "kind": "country",
+                                "name": "Россия"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Приволжский федеральный округ"
+                            },
+                            {
+                                "kind": "province",
+                                "name": "Самарская область"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "Красноярский район"
+                            },
+                            {
+                                "kind": "area",
+                                "name": "сельское поселение Светлое Поле"
+                            },
+                            {
+                                "kind": "locality",
+                                "name": "СДТ Самара"
+                            }
+                        ]
+                    },
+                    "AddressDetails": {
+                        "Country": {
+                            "AddressLine": "Россия, Самарская область, Красноярский район, сельское поселение Светлое Поле, СДТ Самара",
+                            "CountryNameCode": "RU",
+                            "CountryName": "Россия",
+                            "AdministrativeArea": {
+                                "AdministrativeAreaName": "Самарская область",
+                                "SubAdministrativeArea": {
+                                    "SubAdministrativeAreaName": "Красноярский район",
+                                    "Locality": {
+                                        "LocalityName": "СДТ Самара"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "СДТ Самара",
+            "description": "сельское поселение Светлое Поле, Красноярский район, Самарская область, Россия",
+            "boundedBy": {
+                "Envelope": {
+                    "lowerCorner": "50.241579 53.431607",
+                    "upperCorner": "50.251496 53.43394"
+                }
+            },
+            "uri": "ymapsbm1://geo?data=CgoyMTczMDUzNTkyEqYB0KDQvtGB0YHQuNGPLCDQodCw0LzQsNGA0YHQutCw0Y8g0L7QsdC70LDRgdGC0YwsINCa0YDQsNGB0L3QvtGP0YDRgdC60LjQuSDRgNCw0LnQvtC9LCDRgdC10LvRjNGB0LrQvtC1INC_0L7RgdC10LvQtdC90LjQtSDQodCy0LXRgtC70L7QtSDQn9C-0LvQtSwg0KHQlNCiINCh0LDQvNCw0YDQsCIKDXD8SEIVJLtVQg,,",
+            "Point": {
+                "pos": "50.24652 53.432755"
+            }
+        }
+    }
+]
